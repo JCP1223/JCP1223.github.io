@@ -1,0 +1,25 @@
+---
+title: "Classwork 10"
+editor: visual
+---
+
+## Loading R package
+
+```{r}
+library(tidyverse)
+library(skimr)
+```
+
+## Question 1 -Billboard Charts
+
+the following data is for question 1:
+
+```{r}
+billboard <- read_csv('https://bcdanl.github.io/data/billboard.csv')
+```
+
+<br>
+
+## Q1a
+
+-Describe how the distribution of rating varies across week 1, week 2, and week 3 using the **faceted** histogram.

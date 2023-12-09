@@ -1,8 +1,8 @@
 ---
-title: "YOUR NAME"
+title: "Jeffrey Petrie"
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profile.png
+  image: img/me.jpeg
   image-width: 15em
   image-shape: round # rectangle  round  rounded
   
@@ -10,18 +10,15 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
-    - icon: instagram
-      text: Instagram
-      href: https://instagram.com
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/JCP1223
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: 
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:jcp12@geneseo.edu
 
 ---
 
