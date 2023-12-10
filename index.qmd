@@ -15,7 +15,7 @@ about:
       href: https://github.com/JCP1223
     - icon: file-earmark-pdf
       text: Resumé
-      href: 
+      href: https://github.com/JCP1223/JCP1223.github.io/blob/main/resume.pdf
     - icon: mailbox
       text: Email
       href: mailto:jcp12@geneseo.edu
@@ -23,16 +23,14 @@ about:
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Jeffrey Petrie is currently a Chemistry major with a double minor in math and Data analyatic
+when he is not doing work he usually spends his time watching videos or hanging out with his
+suitemates
 
 ## Education
-
+Eastridge Highschool | Irondequoit, NY <br>
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
 
-## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
 
 
